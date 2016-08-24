@@ -1,0 +1,25 @@
+.uno {
+	width: 600px;
+	border: 1px solid black;
+}
+.dos{
+	width: 25%;
+	height: 100px;
+	background-color: yellow;
+	float: right;
+	
+}
+.tres{
+	width: 25%;
+	height: 100px;
+	background-color: #00BFFF;
+	float: right;
+	
+}
+.cuatro{
+	width: 25%;
+	height: 100px;
+	background-color: pink;
+	float: right;
+
+}
